@@ -1,4 +1,4 @@
-
+AI MICROSERVICE TO CONVERT IMAGE-TEXT TO TEXT
 - FastAPI
 - Tesseract OCR
 - pytesseract
